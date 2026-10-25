@@ -8,6 +8,7 @@ Grete Samsa
 Mr. Samsa
 Mrs.Samsa
 The Charwoman
+**Add character images**
 
 **Genre:**
 Existentialism, Absurdism, Fiction
